@@ -9,13 +9,13 @@ If u found any bugs while direct deplpoing to heroku you can just add congig.py 
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MaxxCoderz/Link-Shortner/stargazers">
-    <img src="https://img.shields.io/github/stars/MaxxCoderZ/Link-Shortner?style=social">
+  <a href="https://github.com/Pratyush511/Link-Shortner/stargazers">
+    <img src="https://img.shields.io/github/stars/Pratyush511/Link-Shortner?style=social">
 
   </a>
   
-  <a href="https://github.com/MaxxCoderZ/Link-Shortner/fork">
-    <img src="https://img.shields.io/github/forks/MaxxcoderZ/link-shortner?label=Fork&style=social">
+  <a href="https://github.com/Pratyush511/Link-Shortner/fork">
+    <img src="https://img.shields.io/github/forks/Pratyush511/link-shortner?label=Fork&style=social">
 
   </a>  
 </p>
@@ -36,11 +36,11 @@ If u found any bugs while direct deplpoing to heroku you can just add congig.py 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MaxxCoderZ/Link-Shortner)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pratyush511/Link-Shortner)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/MaxxCoderz/Link-Shortner
+git clone https://github.com/Pratyush511/Link-Shortner
 cd Link-shortner
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
